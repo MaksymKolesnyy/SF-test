@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copia codice
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/MaksymKolesnyy/SF-test
 Upload the files: Upload the website files to your server via FTP.
 
 Database setup:
